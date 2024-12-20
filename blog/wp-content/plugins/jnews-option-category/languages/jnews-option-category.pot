@@ -1,0 +1,320 @@
+# Copyright (C) 2023 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Extended Category Option 11.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-02-28T08:01:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: jnews-option-category\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Extended Category Option"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Option and overwrite detail layout of every global category on your website. Recommended for handling large amount of category"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-option-category.php:358
+msgid "Category Setting"
+msgstr ""
+
+#: class.jnews-option-category.php:427
+msgid "Override Category Color"
+msgstr ""
+
+#: class.jnews-option-category.php:428
+msgid "Override category general color setting."
+msgstr ""
+
+#: class.jnews-option-category.php:435
+msgid "Category Background Color"
+msgstr ""
+
+#: class.jnews-option-category.php:436
+msgid "Main color for this category."
+msgstr ""
+
+#: class.jnews-option-category.php:446
+msgid "Category Text Color"
+msgstr ""
+
+#: class.jnews-option-category.php:447
+msgid "Choose text color for this category."
+msgstr ""
+
+#: class.jnews-option-category.php:460
+msgid "Override Category Setting"
+msgstr ""
+
+#: class.jnews-option-category.php:461
+msgid "Override category general setting."
+msgstr ""
+
+#: class.jnews-option-category.php:468
+msgid "Page Layout"
+msgstr ""
+
+#: class.jnews-option-category.php:469
+msgid "Choose your page layout."
+msgstr ""
+
+#: class.jnews-option-category.php:521
+msgid "Category Sidebar"
+msgstr ""
+
+#: class.jnews-option-category.php:522
+msgid "Choose your category sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: class.jnews-option-category.php:539
+msgid "Second Category Sidebar"
+msgstr ""
+
+#: class.jnews-option-category.php:540
+msgid "Choose your second sidebar for category page. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: class.jnews-option-category.php:556
+msgid "Category Sticky Sidebar"
+msgstr ""
+
+#: class.jnews-option-category.php:557
+msgid "Enable sticky sidebar on this category page."
+msgstr ""
+
+#: class.jnews-option-category.php:573
+#: class.jnews-option-category.php:692
+msgid "Category Header Style"
+msgstr ""
+
+#: class.jnews-option-category.php:574
+msgid "Category header: title and description type."
+msgstr ""
+
+#: class.jnews-option-category.php:591
+msgid "Color Scheme"
+msgstr ""
+
+#: class.jnews-option-category.php:592
+#: class.jnews-option-category.php:613
+msgid "Choose color for your category title background color."
+msgstr ""
+
+#: class.jnews-option-category.php:596
+msgid "Dark Style"
+msgstr ""
+
+#: class.jnews-option-category.php:597
+msgid "Normal Style (Light)"
+msgstr ""
+
+#: class.jnews-option-category.php:612
+msgid "Title Background Color"
+msgstr ""
+
+#: class.jnews-option-category.php:629
+msgid "Title Background Image"
+msgstr ""
+
+#: class.jnews-option-category.php:630
+msgid "Choose or upload image for your category background."
+msgstr ""
+
+#: class.jnews-option-category.php:649
+msgid "Show Category Hero Block"
+msgstr ""
+
+#: class.jnews-option-category.php:650
+msgid "Disable this option to hide category hero block."
+msgstr ""
+
+#: class.jnews-option-category.php:660
+msgid "Category Hero Header"
+msgstr ""
+
+#: class.jnews-option-category.php:661
+msgid "Choose your category header (hero)."
+msgstr ""
+
+#: class.jnews-option-category.php:693
+msgid "Choose your category header (hero) style."
+msgstr ""
+
+#: class.jnews-option-category.php:717
+msgid "Hero Margin"
+msgstr ""
+
+#: class.jnews-option-category.php:718
+msgid "Margin of each hero element."
+msgstr ""
+
+#: class.jnews-option-category.php:738
+#: class.jnews-option-category.php:913
+msgid "Choose Date Format"
+msgstr ""
+
+#: class.jnews-option-category.php:739
+msgid "Choose which date format you want to use for category."
+msgstr ""
+
+#: class.jnews-option-category.php:743
+#: class.jnews-option-category.php:918
+msgid "Relative Date/Time Format (ago)"
+msgstr ""
+
+#: class.jnews-option-category.php:744
+#: class.jnews-option-category.php:919
+msgid "WordPress Default Format"
+msgstr ""
+
+#: class.jnews-option-category.php:745
+#: class.jnews-option-category.php:920
+msgid "Custom Format"
+msgstr ""
+
+#: class.jnews-option-category.php:760
+#: class.jnews-option-category.php:930
+msgid "Custom Date Format"
+msgstr ""
+
+#: class.jnews-option-category.php:763
+msgid ""
+"Please set custom date format for hero element. For more detail about this format, please refer to\n"
+"                        <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: class.jnews-option-category.php:795
+msgid "Category Content Layout"
+msgstr ""
+
+#: class.jnews-option-category.php:796
+msgid "Choose your category content layout."
+msgstr ""
+
+#: class.jnews-option-category.php:808
+msgid "Enable Boxed"
+msgstr ""
+
+#: class.jnews-option-category.php:809
+msgid "This option will turn the module into boxed."
+msgstr ""
+
+#: class.jnews-option-category.php:841
+#: class.jnews-option-category.php:879
+msgid "Enable Shadow"
+msgstr ""
+
+#: class.jnews-option-category.php:842
+#: class.jnews-option-category.php:880
+msgid "Enable shadow on the module template."
+msgstr ""
+
+#: class.jnews-option-category.php:896
+msgid "Excerpt Length"
+msgstr ""
+
+#: class.jnews-option-category.php:897
+msgid "Set the word length of excerpt on post."
+msgstr ""
+
+#: class.jnews-option-category.php:914
+msgid "Choose which date format you want to use for category content element."
+msgstr ""
+
+#: class.jnews-option-category.php:933
+msgid ""
+"Please set custom date format for category content element. For more detail about this format, please refer to\n"
+"                                        <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: class.jnews-option-category.php:957
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: class.jnews-option-category.php:958
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: class.jnews-option-category.php:962
+msgid "Normal - Navigation 1"
+msgstr ""
+
+#: class.jnews-option-category.php:963
+msgid "Normal - Navigation 2"
+msgstr ""
+
+#: class.jnews-option-category.php:964
+msgid "Normal - Navigation 3"
+msgstr ""
+
+#: class.jnews-option-category.php:965
+msgid "Ajax - Next Prev"
+msgstr ""
+
+#: class.jnews-option-category.php:966
+msgid "Ajax - Load More"
+msgstr ""
+
+#: class.jnews-option-category.php:967
+msgid "Ajax - Auto Scroll Load"
+msgstr ""
+
+#: class.jnews-option-category.php:977
+msgid "Auto Load Limit"
+msgstr ""
+
+#: class.jnews-option-category.php:978
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: class.jnews-option-category.php:999
+msgid "Pagination Align"
+msgstr ""
+
+#: class.jnews-option-category.php:1000
+msgid "Choose pagination alignment."
+msgstr ""
+
+#: class.jnews-option-category.php:1004
+msgid "Left"
+msgstr ""
+
+#: class.jnews-option-category.php:1005
+msgid "Center"
+msgstr ""
+
+#: class.jnews-option-category.php:1020
+msgid "Show Navigation Text"
+msgstr ""
+
+#: class.jnews-option-category.php:1021
+msgid "Show navigation text (next, prev)."
+msgstr ""
+
+#: class.jnews-option-category.php:1037
+msgid "Show Page Info"
+msgstr ""
+
+#: class.jnews-option-category.php:1038
+msgid "Show page info text (Page x of y)."
+msgstr ""
